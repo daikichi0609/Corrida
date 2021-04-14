@@ -1,21 +1,14 @@
-﻿<Properties StartupConfiguration="{427E50A4-8A07-9950-48CA-498F9DE39FBD}|">
+﻿<Properties StartupConfiguration="{E39CAE94-3E86-B8F0-6DBD-C9C0861D593C}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerScript.cs" Line="173" Column="81" />
-      <File FileName="Assets/Scripts/GameManagerScript.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/EnemyScript.cs" Line="41" Column="24" />
+      <File FileName="Assets/Scripts/PlayerScript.cs" Line="165" Column="17" />
+      <File FileName="Assets/Scripts/GameManagerScript.cs" />
+      <File FileName="Assets/Scripts/EnemyScript.cs" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="コリーダ・デ・トロス" expanded="True" selected="True" />
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="545b180d-d47f-41b6-be6a-1ea882e68518" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e7bc13ed-d441-47dc-bf34-3edccc8d0a98" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
