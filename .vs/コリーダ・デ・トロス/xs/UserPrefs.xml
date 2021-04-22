@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{E39CAE94-3E86-B8F0-6DBD-C9C0861D593C}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerScript.cs" Line="165" Column="17" />
+      <File FileName="Assets/Scripts/PlayerScript.cs" Line="120" Column="10" />
       <File FileName="Assets/Scripts/GameManagerScript.cs" />
       <File FileName="Assets/Scripts/EnemyScript.cs" />
     </Files>
